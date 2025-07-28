@@ -17,5 +17,3 @@
    python app.py
    ```
 4. Open browser at http://localhost:5000 and upload a table image.
-
-*Ensure Tesseract OCR is installed on your system."# Smart-Power-Grid-Health-Predictor" 
